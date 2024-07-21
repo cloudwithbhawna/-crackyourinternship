@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0283-move-zeroes) |
@@ -66,8 +67,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cloudwithbhawna/-crackyourinternship/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
